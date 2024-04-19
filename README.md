@@ -1,8 +1,8 @@
 ## Olá, mundo! Eu sou a Beatriz Almeida👩‍💻!
 
-💻 Frontend Developer <br>
-🧠 I'm currently specializing in React and Agular <br>
-🎓 Systems Analysis and Development Student at Instituto Infnet
+💻 Data Analysis <br>
+🧠 I'm currently specializing in Data Analysis <br>
+🎓 Systems Analysis at UVA and Development Student at Instituto Infnet
 
 ## GitHub Stats
 
